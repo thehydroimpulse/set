@@ -65,7 +65,7 @@ set.member('foobar').then(function(isMember) {
 
 ---
 
-You never have to set the membership before calling `.add()`. A set within Redis is a unique collection. Thus, Redis will worry about maintaining that uniqueness.
+You never have to test the membership before calling `.add()`. A set within Redis is a unique collection. Thus, Redis will worry about maintaining that uniqueness.
 
 ## Testing
 
