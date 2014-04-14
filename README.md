@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/TheHydroImpulse/set.svg)](https://travis-ci.org/TheHydroImpulse/set)
+
 # Set
 
 A small set wrapper around Redis. The API Redis provides is pretty ugly, so this wraps it with promises.
